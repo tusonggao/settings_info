@@ -8,6 +8,7 @@ alias sha='shasum -a 256 '                # 检查某个文件的md5值
 alias www='python3 -m http.server 6789'   # 临时共享某个文件夹
 alias ipe='curl ipinfo.io/ip'             # 获得公网ip
 alias c='clear'                           # 清屏命令
+alias dud='du -h --max-depth=1'           # 查看当前文件夹的大小 
 ######################## alias by tusonggao END   ##################################
 
 
